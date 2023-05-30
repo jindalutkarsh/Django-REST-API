@@ -55,4 +55,4 @@ The view uses the obtained access token to authenticate subsequent requests.
 It sends a GET request to the Google Calendar API endpoint to fetch the list of events from the user's calendar.
 The response, containing the events data, is returned as an HTTP response.
 #Conclusion
-This project demonstrates how to integrate Google Calendar using Django REST API and OAuth2 authentication. It provides two API endpoints, one for initiating the OAuth process and another for handling the authorization redirect and retrieving events from the user's calendar.
+This project demonstrates how to integrate Google Calendar using Django REST API and OAuth2 authentication. It provides two API endpoints, one for initiating the OAuth process and another for handling the authorization redirect and retrieving events from the user's calendar.
